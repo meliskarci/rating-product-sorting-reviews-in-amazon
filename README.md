@@ -6,15 +6,15 @@ One of the most significant problems in e-commerce is the accurate calculation o
 This dataset containing Amazon product data includes product categories along with various metadata. In the Electronics category, it includes user ratings and reviews for the product with the most reviews.
 
 ## Variables
-reviewerID: User ID
-asin: Product ID
-reviewerName: User name
-helpful: Helpful Review Rating
-reviewText:
-overall: Product Rating
-summary: Review Summary
-unixReviewTime: Review Date
-reviewTime: Review Date Raw
-day_diff: Number of Days Since Review
-helpful_yes: Number of Found Helpful Votes for the Review
-total_vote: The total number of votes given to the review, which includes both upvotes and downvotes.
+*reviewerID: User ID
+*asin: Product ID
+*reviewerName: User name
+*helpful: Helpful Review Rating
+*reviewText:
+*overall: Product Rating
+*summary: Review Summary
+*unixReviewTime: Review Date
+*reviewTime: Review Date Raw
+*day_diff: Number of Days Since Review
+*helpful_yes: Number of Found Helpful Votes for the Review
+*total_vote: The total number of votes given to the review, which includes both upvotes and downvotes.
